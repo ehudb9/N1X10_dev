@@ -24,6 +24,7 @@ def random_number_generator(arg1, arg2):
 
 
 # My usage example:
+
 def pdf_to_image_list(pdf_path):
     """
         this function converts pdf to a python list of <class 'PIL.PpmImagePlugin.PpmImageFile'> images.
