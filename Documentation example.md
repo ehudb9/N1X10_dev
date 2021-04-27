@@ -1,0 +1,44 @@
+# General form: (sorce: https://docs.python-guide.org/writing/documentation/)
+
+def random_number_generator(arg1, arg2):
+    """
+    Summary line.
+
+    Extended description of function.
+
+    Parameters
+    ----------
+    arg1 : int
+        Description of arg1
+    arg2 : str
+        Description of arg2
+
+    Returns
+    -------
+    int
+        Description of return value
+
+    """
+    return 42
+
+
+
+# My usage example:
+def pdf_to_image_list(pdf_path):
+    """
+        this function converts pdf to a python list of <class 'PIL.PpmImagePlugin.PpmImageFile'> images.
+
+        Parameters
+        ----------
+        pdf_path : string
+            pdf_path is the local path of the pdf file on given machine.
+
+        Returns
+        -------
+        list
+            Python list of <class 'PIL.PpmImagePlugin.PpmImageFile'> images,
+            where each image corresponds to a single pdf page.
+
+        """
+    pages = convert_from_path(pdf_path, 300)  # pages is a list of images
+    return pages
