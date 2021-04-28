@@ -1,0 +1,88 @@
+7/15/2016 Patient: Christenson, Alan (MR#16743072) Printed by ALICANTE, SHANNON [S0089441]
+
+On STANFORD
+
+MEDICINE
+
+Radiology PET Advance Medicine Ctr
+875 Blake Wilbur Drive
+Stanford CA 94305
+650-723-6855
+
+Patient Information
+
+ 
+
+Patient Name MRN Sex DOB
+
+Christenson, Alan 16743072 Male 7/21/1936
+
+Unit
+
+RADON
+FDG PET CT CLINICAL WHOLE BODY SKULL TO THIGHS (Order Status: Final result
+494402819) (Exam End: 5/27/2016 3:29
+Results PM)
+
+ 
+
+View Full Radiology Images - Patient Level
+Show images for CHRISTENSON,ALAN
+
+View Full Radiology Images - Order Level
+Show images for FDG PET CT CLINICAL WHOLE BODY SKULL TO THIGHS
+
+Last Signing Radiologist
+Andrei Horia lagaru, MD (S0013131)
+
+ 
+
+ 
+
+Responsible Radiologist(s)
+Radiologist(s)
+Andrei Horia lagaru, MD (S0013131)
+
+ 
+
+Authenticating Radiologist(s)
+Radiologist(s) Date Signed Time Signed
+Andrei Horia lagaru, MD (S0013131) 6/2/2016 1105
+
+ 
+
+Result History
+FDG PET CT CLINICAL WHOLE BODY SKULL TO THIGHS (Order #494402819) on 5/26/2016 - Result History
+Information
+
+Patient Release Status:
+This result is viewable by the patient in MyHealth.
+
+Last viewed in MyHealth:
+6/6/2016 1:05 PM
+
+By:
+Alan Christenson
+
+ 
+
+Reviewed By List
+Loo, Billy Wiseman, MD on 6/6/2016 10:36 AM
+
+ 
+
+6/2/2016 11:05 AM - Results, Shc Incoming Imaging
+
+Narrative
+WHOLE-BODY F-18 FDG PET-CT: 5/27/2016 3:29 PM
+
+CLINICAL HISTORY: 79 years of age, Male, with history of squamous
+cell carcinoma of the right lower lobe of the lung, status post right
+middle and lower bilobectomy and mediastinal lymph node dissection on
+4/15/16, with positive vascular margin and 1/51 lymph nodes positive
+by direct extension. The patient is now being assessed for adjuvant
+therapy and is referred today for evaluation of subsequent treatment
+strategy.
+
+https://prism.stanfordhealthcare.org/epiccarelink/epiccare/ord_detail.asp?from=ResultReview&Ndx=3 1/4
+
