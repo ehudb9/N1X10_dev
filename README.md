@@ -74,6 +74,7 @@ git clone <clone url>
 the "clone url" can be found on the the top right part of this github page.
 
 ### Prerequisites
+****TBC****
 
 The prerequisites are listed in the "requirements.txt" file.
 Make sure you have a working virtual environment with all the packages downloaded in it.
@@ -88,16 +89,16 @@ when inside your venv.
 To run the app, I recommend using VS Code.
 Follow these steps:
 * Open the project you've cloned in VS Code.
-## TBC
+****TBC****
 
 ### What Now?
 
-###TBC
+****TBC****
 
 ## Built With
-## TBC
+****TBC****
 * [flask](https://flask.palletsprojects.com/en/1.1.x/) - The web framework used
 * [Butter](https://bennymeg.github.io/Butter.MAS.PythonAPI/) - Robot Prototyping Platform
 
 ## Authors
-## TBC
+## ****TBC****
