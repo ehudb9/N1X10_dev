@@ -15,9 +15,8 @@ And returns ExceL table with the relevant data for N1X10 system.
 </p>
 <br />
 
-
+### The Flow Details:
 <br />
-## The Flow Details:
 
 *'will be update with the progect progress.*
 
@@ -89,16 +88,16 @@ when inside your venv.
 To run the app, I recommend using VS Code.
 Follow these steps:
 * Open the project you've cloned in VS Code.
-###TBC
+## TBC
 
 ### What Now?
 
 ###TBC
 
 ## Built With
-###TBC
+## TBC
 * [flask](https://flask.palletsprojects.com/en/1.1.x/) - The web framework used
 * [Butter](https://bennymeg.github.io/Butter.MAS.PythonAPI/) - Robot Prototyping Platform
 
 ## Authors
-###TBC
+## TBC
