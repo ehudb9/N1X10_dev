@@ -64,7 +64,6 @@ def imaging_type(filename, imaging_types):
     return imaging_types[line_list.index(min(line_list))]
 
 
-
 # could be improve using dictionary with values as other ways to write
 imaging_types = ['XR', 'MRI', 'PET CT', 'CT', 'DOTATATE']
 type1 = imaging_type('doc1.txt', imaging_types)

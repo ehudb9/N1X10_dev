@@ -1,7 +1,7 @@
 # importing required modules
 import tabula
 import csv
-
+import PyPDF2
 
 def extract_words(file_name):
     pdf = PyPDF2.PdfFileReader(file_name)

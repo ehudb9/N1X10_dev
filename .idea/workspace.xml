@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="336bb97d-52e7-4024-9ee1-f10814254bac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/document classifaier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DocClass/CONSTANS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DocClass/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DocClass/document classifaier.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc Class/CONSTANS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc Class/PyPDF2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DocClass/PyPDF2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc Class/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gal/Data Extraction - Imaging/imaging_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gal/Data Extraction - Imaging/imaging_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document classifaier.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +47,59 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\Documents\GitHub\N1X10_dev" />
       <recent name="C:\Users\User\Documents\GitHub\N1X10_dev\Doc Class" />
+      <recent name="C:\Users\User\Documents\GitHub\N1X10_dev" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.document classifaier (1)">
+    <configuration name="document classifaier (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="N1X10_dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DocClass" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DocClass/document classifaier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="document classifaier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="N1X10_dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Doc Class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Doc Class/document classifaier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.document classifaier (1)" />
+        <item itemvalue="Python.document classifaier" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -85,7 +142,13 @@
       <option name="presentableId" value="LOCAL‎00003" />
       <updated>1620133737410</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL‎00004" summary="a">
+      <created>1620141947004</created>
+      <option name="number" value="LOCAL‎00004" />
+      <option name="presentableId" value="LOCAL‎00004" />
+      <updated>1620141947004</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -107,10 +170,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="401" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1620121100146" />
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1620133736736">
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1620141946468">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1620133736736" />
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1620141946468" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1620147244401">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1620147244401" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1620147244401">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1620147244401" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1620147244401">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1620147244401" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1620147244401">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1620147244401" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1620121224275">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
