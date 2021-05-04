@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="336bb97d-52e7-4024-9ee1-f10814254bac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DocClass/CONSTANS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DocClass/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DocClass/document classifaier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doc Class/CONSTANS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doc Class/PyPDF2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DocClass/PyPDF2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doc Class/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gal/Data Extraction - Imaging/imaging_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gal/Data Extraction - Imaging/imaging_type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/document classifaier.py" beforeDir="false" />
-    </list>
+    <list default="true" id="336bb97d-52e7-4024-9ee1-f10814254bac" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
