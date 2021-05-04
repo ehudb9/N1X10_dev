@@ -56,7 +56,7 @@ def imaging_type_line(filename, typ):
 
 
 def imaging_type(filename, imaging_types):
-    line_list = [float('inf')] * 5;
+    line_list = [float('inf')] * len(imaging_types);
     index = -1
     for typ in imaging_types:
         index += 1
