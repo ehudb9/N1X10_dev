@@ -61,6 +61,11 @@ def tabula(link):
     #you can us Below code to convert the PDF Data into Excel or CSV
     tabula.convert_into("05_16_2019 Cytology-Non GYN.pdf", "05_16_2019 Cytology-Non GYN.pdf.xlsx", output_format="xlsx")
 
+
+
+
+
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     pypdf(r'C:\Users\ehudb\PycharmProjects\nixio test\05_16_2019 Cytology-Non GYN.pdf')
