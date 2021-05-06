@@ -1,0 +1,75 @@
+7/15/2016 Patient: Christenson, Alan (MR#16743072) Printed by ALICANTE, SHANNON [S0089441]
+
+COMPARISON: PET/CT, 3/17/2016.
+
+PROCEDURE COMMENTS:
+Tracer information:
+Measured (injected) dose: 11.49 mCi.
+Injection site: LAC.
+
+Imaging information, imaging parameters, and additional medications:
+Anatomical region: The area imaged included the nasal cavity level to
+mid thighs.
+
+Lasix: None.
+
+Oral contrast: None.
+
+IV contrast: None.
+
+CT dose information: Based on a 32 cm phantom, the estimated
+radiation dose (CTDIvol [mGy]) for each series in this exam is 0.13,
+6.77, 14.68, 14.68, and 24.33. The estimated cumulative dose (DLP
+[mGy-cm]) is 3212.
+
+Scan technique: Following IV administration of the
+radiopharmaceutical, images were acquired using the Siemens mCT
+PET-CT scanner. A low-dose CT scan was performed for attenuation
+correction and anatomic correlation only. If a comprehensive
+diagnostic CT is required, the Department of Radiology should be
+consulted for an adjunct CT study. Images were reconstructed and
+reviewed in the axial, coronal, and sagittal planes. For descriptive
+purposes, the maximum standard uptake value (SUV max) of
+metabolically active tissues is reported in g/mL, unless stated
+otherwise.
+
+Baseline measurements:
+
+Current mean liver SUV: 2.0 g/mL.
+
+Prior mean liver SUV: 2.7 g/mL.
+
+Current mean gluteal muscle SUV: 0.6 g/mL.
+Prior mean gluteal muscle SUV: 0.9 g/mL.
+
+FINDINGS:
+
+Head and neck: Opacification in the left maxillary sinus,
+considerations include mucous retention cyst versus polyp. The brain
+was not included in the field of view. Physiologic FDG uptake is seen
+in the ocular muscles, salivary glands, oropharynx, and vocal cords.
+There are no pathologically enlarged cervical or supraclavicular
+lymph nodes. The thyroid gland is unremarkable.
+
+Thorax: Interval removal of the right lung mass with the area
+replaced by non-FDG avid consolidative changes, as well as surgical
+material in the right posterior paramediastinal/paravertebral region.
+Diffuse, hypermetabolic activity in the posterior right lung, lateral
+to the consolidation replacing the right lung mass, likely post
+treatment changes. In the right lung, there is a 0.4 cm nodule in the
+right upper lobe which appears to be new when compared to the prior
+study, and has subtle FDG uptake, SUV 1.3, CT image 72. There is a
+pneumothorax appreciated in the anterolateral right lung. Small right
+pleural effusion. Physiologic FDG uptake is present in the
+myocardium. The thoracic aorta and main pulmonary artery are normal
+in caliber.
+
+Abdomen and pelvis: Physiologic FDG uptake is present in the liver,
+spleen, and bowel. The adrenal glands and pancreas are unremarkable
+on the non-contrast CT. The kidneys, ureters, and urinary bladder are
+visualized per clearance of the radiotracer. Intense signal from
+excreted tracer limits evaluation for malignancy in the urinary
+tract. The abdominal aorta is normal in caliber. There are no
+
+https://prism.stanfordhealthcare.org/epiccarelink/epiccare/ord_detail.asp?from=ResultReview&Ndx=3 2/4
+

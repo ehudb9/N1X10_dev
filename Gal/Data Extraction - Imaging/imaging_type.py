@@ -67,12 +67,12 @@ def imaging_type(filename, imaging_types):
 
 # could be improve using dictionary with values as other ways to write
 imaging_types = ['XR', 'MRI', 'PET CT', 'CT', 'DOTATATE']
-type1 = imaging_type('doc1.txt', imaging_types)
-type2 = imaging_type('doc2.txt', imaging_types)
-type3 = imaging_type('doc3.txt', imaging_types)
-print(type1)
-print(type2)
-print(type3)
+# type1 = imaging_type('doc1.txt', imaging_types)
+# type2 = imaging_type('doc2.txt', imaging_types)
+# type3 = imaging_type('doc3.txt', imaging_types)
+# print(type1)
+# print(type2)
+# print(type3)
 
 # write_to_xlsx('ac example.xlsx', type1, 19, 19)
 # write_to_xlsx('ac example.xlsx', type2, 20, 19)

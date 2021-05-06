@@ -1,0 +1,75 @@
+7/15/2016 Patient: Christenson, Alan (MR#16743072) Printed by ALICANTE, SHANNON [S0089441]
+
+pathologically enlarged or hypermetabolic abdominal, pelvic, or
+inguinal lymph nodes.
+
+Musculoskeletal: There is a fracture in the right posterior sixth
+rib, with associated hypermetabolic activity. Redemonstration of
+orthopedic hardware in the left hip.
+
+Impression
+
+1. Diffusely increased FDG uptake and consolidative changes in the
+right lung, consistent with post treatment changes.
+
+2. New, mildly-FDG avid, 5 mm nodule in the right lung incompletely
+evaluated on the non breath-hold CT. Recommend diagnostic chest CT
+for further evaluation of nodule and to establish new baseline.
+
+3. Small pneumothorax in the anterior right lung, as well as a right
+pleural effusion.
+
+4. Fracture of the posterior right sixth rib, likely treatment
+related.
+
+I have personally reviewed the images for this examination and agree
+with the report transcribed above.
+
+Lab and Collection
+FDG PET CT CLINICAL WHOLE BODY SKULL TO THIGHS on 5/26/2016
+
+Stanford Health Care CHRISTENSON,ALAN
+MRN: 16743072
+
+DOB: 7/21/1936, Sex: M
+Enc. Date: 05/26/16
+
+Patient Information
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Patient Name MRN Sex DOB SSN
+Christenson, Alan 16743072 Male 7/21/1936 XXX-XX-XXXX
+Unit
+RADON
+Order FDG PET CT CLINICAL WHOLE BODY SKULL TO THIGHS [IMGNCPFDGWBD] (Accession # 8615340)
+(Order 494402819)
+Provider Information
+Ordering User Ordering Provider Authorizing Provider
+Shc Incoming Imaging Results Billy Wiseman Loo, MD (0004362) _ Billy Wiseman Loo, MD (S0004362)
+(943303)
+Order Questions
+Question Answer
+Exam Ordered for: PI Initial Treatment Strategy of Tumor
+Reason for Exam Lung cancer s/p surgical resection, staging for treatment planning,
+TO BE COMPLETED AT THE TIME OF SIMULATION ON 5/27/16 IN
+XRT
+Order Details
+Priority
+Routine
+Order Information
+Order Date/Time End Date/Time
+05/26/16 02:32 PM None
+Associated Diagnoses
+https://prism.stanfordhealthcare.org/epiccarelink/epiccare/ord_detail.asp?from=ResultReview&Ndx=3 3/4
+
+Electronically signed by Elation Staff on 10/13/2020 4:56 pm in “ElationHeaith
+
