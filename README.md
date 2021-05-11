@@ -20,46 +20,74 @@ And returns ExceL table with the relevant data for N1X10 system.
 
 *'will be update with the progect progress.*
 
-1. **Pull from remote develop branch**
-   1. Checkout to develop\
-      `git checkout develop`
-   1. Then type\
-      `git pull origin develop`\
-      In order for your local develop branch to be in sync with remote.
+1. **Init**
+   1. get a medical document.
+       `assume pdf file` 
+   1. check if the document is readable or scanner picture send the file to OCR.
       
-1. **Create a private branch**
-   1. In order to branch out from develop, make sure you are currently on the develop branch,
-   1. And then type the following\
-       `git checkout -b <private_branch_name>`\
-       This will create the new branch and checkout to it !
-       
-1. **Merge develop into your development branch**
-   1. Type:\
-      `git merge develop`\
-      This will update any changes that other team members made, with your local branch. If there are conflicts, resolve them !
-                 
-1. **Work on your private branch**
-   1. Continue working on your private branch until you are done with your assignment.\
-      This includes adding files (staging) and committing locally, as well as pushing occasionally to the remote branch.\
-      Make sure you are pushing to a remote branch with the same name as your private branch.. To make sure use -\ 
-      `git push origin <branch_name>`
+      
+2.1. **OCR**
+   * In order to extract the text will transform the file to JPG and then to .txt file
+   * returns txt file 
+
+2.2. **pdf object**
+   * init python pdf object in order to work on the file
 
 
-1. **Once done with task - Create a Pull Request to Develop**
-   1. Make sure you pushed all your changes to your remote branch.
-   1. Then, go to GitHub and create a pull request from your branch to develop.
-   1. Assign the relevant reviewers to your PR, and wait for Code Reviews.
-   1. Handle all rejects until the PR is approved, and finally complete the PR!
+3. **Document classification**
+   1. gets txt file from OCR or pdf object.
+   2.  *TBC* unbundle the file
+   3.  returns a list of each document's attribute:
+<p >
+<ul>
+  <li>name of patient</li>
+  <li>date of document</li>
+  <li>date of procedure</li>
+  <li>doctor’s name</li>
+  <li>the department </li>
+  <li>the institution</li>
+    <li>type of procedure</li>
+  <li>num of pages </li>
+  <li>reference to the original document</li>
+</ul>
+</p>
+
+4.1 **imaging**
+
+  * TBC
+
+
+4.2 **Bood test**
+  * TBC
    
-   *Now that you have done so, your changes are present in develop !*
+4.3 **Dr summaries**
+
+  * TBC
+4.4 **Medication prescriptions**
+
+  * TBC
+
+4.5 **Pathology**
+
+  * TBC
+
+4.6 **Surgery reports**
+
+  * TBC
+
+4.7 **Hospital release forms**
+
+  * TBC
+
+4.8 **Genomic-molecular profiles**
+
+  * TBC
+
+5 **Assemble the results to excel**
+
+  * TBC
 
 
-
-1. **(*Project Owner Only*) Merge Develop to Master**
-   1. Test the code on develop.
-   2. Merge develop into master so that the changes of your team can be `in production`. 
-
-<br /> 
 
 ### Clone the project
 
