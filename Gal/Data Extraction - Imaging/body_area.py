@@ -113,10 +113,10 @@ doc1_pages = ['doc1.txt']
 doc2_pages = ['doc2.txt']
 doc3_pages = ['doc3_1.txt', 'doc3_2.txt', 'doc3_3.txt']
 sites1 = specific_sites_pages(doc1_pages, poss_sites, sites_keys)
-sites2 = specific_sites_pages(doc2_pages, poss_sites, sites_keys)
+# sites2 = specific_sites_pages(doc2_pages, poss_sites, sites_keys)
 sites3 = specific_sites_pages(doc3_pages, poss_sites, sites_keys)
 print(sites1)
-print(sites2)
+# print(sites2)
 print(sites3)
 
 # write_to_xlsx('ac example.xlsx', area1, 19, 19)
