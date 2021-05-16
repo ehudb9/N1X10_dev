@@ -1,5 +1,5 @@
 # importing required modules
-import tabula
+# import tabula
 import csv
 import PyPDF2
 
@@ -45,13 +45,13 @@ def pypdf(urlLink):
     # closing the pdf file object
     pdfFileObj.close()
 
-def tabula(link):
-    # readinf the PDF file that contain Table Data
-    # you can find find the pdf file with complete code in below
-    # read_pdf will save the pdf table into Pandas Dataframe
-    df = tabula.read_pdf(link)
-    # in order to print first 5 lines of Table
-    df.head()
+# def tabula(link):
+#     # readinf the PDF file that contain Table Data
+#     # you can find find the pdf file with complete code in below
+#     # read_pdf will save the pdf table into Pandas Dataframe
+#     df = tabula.read_pdf(link)
+#     # in order to print first 5 lines of Table
+#     df.head()
 
     #df2 = tabula.read_pdf(link, multiple_tables = True)
 
@@ -59,7 +59,7 @@ def tabula(link):
     #tabula.read_pdf("offense.pdf", output_format="json")
 
     #you can us Below code to convert the PDF Data into Excel or CSV
-    tabula.convert_into("05_16_2019 Cytology-Non GYN.pdf", "05_16_2019 Cytology-Non GYN.pdf.xlsx", output_format="xlsx")
+    # tabula.convert_into("05_16_2019 Cytology-Non GYN.pdf", "05_16_2019 Cytology-Non GYN.pdf.xlsx", output_format="xlsx")
 
 
 

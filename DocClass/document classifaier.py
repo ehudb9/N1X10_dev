@@ -1,9 +1,13 @@
 import PyPDF2
-from DocClass.CONSTANS import *
+
+# from DocClass.CONSTANS import * as con
+
+__name__ = "document classifaier.py"
+__author__ = "Ehud Barda"
 
 
 class Pdf_Object:
-    def __init__(self, file_link:str):
+    def __init__(self, file_link: str):
         self.pdfFileObj = open(file_link, 'rb')
         self.pdfReader = PyPDF2.PdfFileReader(self.pdfFileObj)
         # print(pdfReader.numPages)  # will give total number of pages in pdf
@@ -16,22 +20,27 @@ class Pdf_Object:
         # closing the pdf file object
         self.pdfReader.close()
 
+
 class Document_Classification:
-    def __init__(self, file , mode="pdfObj"):
+    # can get "pdfObj" if the file is readable and "OCR" if its a scanner picture
+    def __init__(self, file_path, mode="pdfObj"):
         self.doc_index = {
-            "patient_name" : "",
-            "date_of_document" : "",
-            "date_of_procedure" : "",
-            "doctor_name" : "",
+            "patient_name": "",
+            "date_of_document": "",
+            "date_of_procedure": "",
+            "doctor_name": "",
             "department": "",
             "institution": "",
             "procedure_type": "",
-            "num_of_pages" : 0,
-            "document_reference" : ""
+            "num_of_pages": 0,
+            "document_reference": ""
         }
-        self.text = file
-    def search(word):
+        self.text = self.open_file(file_path)
+
+    def search_line_index(self, word):
         """
+        search for a given word in self.text
+        return the line index where the word found. and -1 if wasn't found
         """
         pass
 
@@ -41,9 +50,25 @@ class Document_Classification:
         self.doc_index["procedure_type"] = procedure_type
         return procedure_type
 
+    def open_file(self, path):
+        # creating a pdf file object
+        pdfFileObj = open(path, 'rb')
 
-    def open_file(link):
-        pass
+        # creating a pdf reader object
+        pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
+
+        # printing number of pages in pdf file
+        print(pdfReader.numPages)
+
+        # creating a page object
+        pageObj = pdfReader.getPage(0)
+
+        # extracting text from page
+        print(pageObj.extractText())
+
+        # closing the pdf file object
+        pdfFileObj.close()
+
 
 # def imaging_type_line(filename, typ):
 #     # open the sample text representing the imaging doc
@@ -74,7 +99,8 @@ class Document_Classification:
 #     return imaging_types[line_list.index(min(line_list))]
 
 
- # main func for testing :
+# main func for testing :
 
 if __name__ == '__main__':
-        print(procedure_types_EXP)
+    # a = Pdf_Object(r'C:\Users\User\Desktop\N1X10\Sample documents\Dr summaries\AC 1.26.17 rad onc.pdf')
+    print("ji")

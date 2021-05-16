@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="336bb97d-52e7-4024-9ee1-f10814254bac" name="Default Changelist" comment="" />
+    <list default="true" id="336bb97d-52e7-4024-9ee1-f10814254bac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DocClass/readgui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DocClass/document classifaier.py" beforeDir="false" afterPath="$PROJECT_DIR$/DocClass/document classifaier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assents/WhatsApp Image 2021-05-04 at 19.09.02.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assents/logo.jpeg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +46,7 @@
       <recent name="C:\Users\User\Documents\GitHub\N1X10_dev" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.document classifaier (1)">
+  <component name="RunManager" selected="Python.gui">
     <configuration name="document classifaier (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="N1X10_dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,8 +89,74 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="N1X10_dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DocClass" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DocClass/gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read withTkinter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="N1X10_dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DocClass" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DocClass/read withTkinter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readgui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="N1X10_dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DocClass" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DocClass/readgui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gui" />
+        <item itemvalue="Python.readgui" />
+        <item itemvalue="Python.read withTkinter" />
         <item itemvalue="Python.document classifaier (1)" />
         <item itemvalue="Python.document classifaier" />
       </list>
@@ -164,29 +235,34 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1620141946468" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1620147244401">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1620218918774">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.-1065.2560.1400@0.0.1280.680" timestamp="1620218918774" />
     <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1620147244401" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1620147244401">
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1620218918774">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.-1065.2560.1400@0.0.1280.680" timestamp="1620218918774" />
     <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1620147244401" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1620147244401">
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1620218918774">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.-1065.2560.1400@0.0.1280.680" timestamp="1620218918774" />
     <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1620147244401" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1620147244401">
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1620218918774">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.-1065.2560.1400@0.0.1280.680" timestamp="1620218918774" />
     <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1620147244401" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1620121224275">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1620121224275" />
-    <state x="46" y="91" key="com.intellij.ide.util.TipDialog" timestamp="1620121028431">
+    <state x="46" y="91" key="com.intellij.ide.util.TipDialog" timestamp="1620217540980">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="46" y="91" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.-1065.2560.1400@0.0.1280.680" timestamp="1620217540980" />
     <state x="46" y="91" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1620121028431" />
     <state x="450" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620126346098">
       <screen x="0" y="0" width="1280" height="680" />
