@@ -62,11 +62,35 @@ def pypdf(urlLink):
     # tabula.convert_into("05_16_2019 Cytology-Non GYN.pdf", "05_16_2019 Cytology-Non GYN.pdf.xlsx", output_format="xlsx")
 
 
+from PyPDF2 import PdfFileReader
 
+def extract_information(pdf_path):
+    with open(pdf_path, 'rb') as f:
+        pdf = PdfFileReader(f)
+        information = pdf.getDocumentInfo()
+        number_of_pages = pdf.getNumPages()
 
+    txt = f"""
+    Information about {pdf_path}: 
 
+    Author: {information.author}
+    Creator: {information.creator}
+    Producer: {information.producer}
+    Subject: {information.subject}
+    Title: {information.title}
+    Number of pages: {number_of_pages}
+    """
 
-# Press the green button in the gutter to run the script.
+    print(txt)
+    return information
+
 if __name__ == '__main__':
-    pypdf(r'C:\Users\ehudb\PycharmProjects\nixio test\05_16_2019 Cytology-Non GYN.pdf')
-    #tabula('05_16_2019 Cytology-Non GYN.pdf')
+    path = 'reportlab-sample.pdf'
+    extract_information(path)
+
+#
+#
+# # Press the green button in the gutter to run the script.
+# if __name__ == '__main__':
+#     pypdf(r'C:\Users\ehudb\PycharmProjects\nixio test\05_16_2019 Cytology-Non GYN.pdf')
+#     #tabula('05_16_2019 Cytology-Non GYN.pdf')

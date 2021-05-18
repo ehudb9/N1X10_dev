@@ -2,8 +2,8 @@
 Constants for documets expressions
 """
 
-__name__ = "constants"
-__author__ = "Ehud Barda"
+# __name__ = "constants"
+# __author__ = "Ehud Barda"
 
 import json
 import logging
